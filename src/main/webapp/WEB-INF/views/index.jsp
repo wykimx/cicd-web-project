@@ -4,6 +4,7 @@
 <body>
     <h2>It's working on Tomcat server.</h2>
     <hr>
+    <h1>TEST</h1>
     <hr>
     <h1>${msg}</h1>
     <h1>Hi, there. This is cicd practice.</h1>
